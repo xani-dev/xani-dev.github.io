@@ -1,0 +1,167 @@
+# banner
+banner:
+  title : "Hi 👋 I’m  Xani,<br>  a NYC Based <br> Full Stack <br>Developer."
+
+# about
+about:
+  enable : true
+  content : "Hi, I am Xani, and I am currently embarking on a new journey to expand my career as a Multimedia Engineer to the amazing Coding world by becoming a MERN full-stack web dev."
+  button:
+    enable : true
+    label : "more about me"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "JS Technologies"
+  item:
+      
+    - title : "MongoDB"
+      progress : "60%"
+      color : "#34234A"
+      
+    - title : "Express"
+      progress : "80%"
+      color : "#990371"
+      
+    - title : "ReactJS"
+      progress : "70%"
+      color : "#FF1975"
+
+    - title : "NodeJS"
+      progress : "70%"
+      color : "#FF6B95"
+
+# experience
+experience:
+  enable : true
+  title : "My Skills"
+  item: 
+    - logo : "images/experience/001-options.svg"
+      title : "Digital Strategy"
+      company : "Digital Marketing. Content Creation"
+      #duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/002-chat.svg"
+      title : "Web Development"
+      company : "Front End. Back End"
+      #duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/003-contact-book.svg"
+      title : "Project Management"
+      company : "Product Roadmaps. Market Strategy."
+      #duration : "Sep 2014 - Present"
+
+    - logo : "images/experience/004-percentage.svg"
+      title : "Multimedia Design"
+      company : "Video. Photography"
+      #duration : "Mar 2009 - Aug 2014"
+
+# education
+education:
+  enable : false
+  title : "Education"
+  item:
+    - title : "Marters in UX Design"
+      year : "2006"
+      academy : "Masassusets Institute of Technology"
+      
+    - title : "Honours in Fine Arts"
+      year : "2004"
+      academy : "Harvard University"
+      
+    - title : "Higher Secondary Certificat"
+      year : "2000"
+      academy : "Cardiff School"
+      
+    - title : "Secondary School Certificate"
+      year : "1998"
+      academy : "Cardiff School"
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blog"
+  # blog post comes from "content/blog" folder
