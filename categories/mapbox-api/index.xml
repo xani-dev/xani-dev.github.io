@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mapbox api on The Pink Dev</title>
+    <link>http://thepink.dev/categories/mapbox-api/</link>
+    <description>Recent content in mapbox api on The Pink Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/mapbox-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Time Bus Tracker</title>
+      <link>http://thepink.dev/portfolio/real-time-bus-tracker/</link>
+      <pubDate>Tue, 09 Mar 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/real-time-bus-tracker/</guid>
+      <description>Project Description This project provides a visual real-time tracking display of the Route #1 of Boston, running between Harvard and Nubian.</description>
+    </item>
+    
+  </channel>
+</rss>
