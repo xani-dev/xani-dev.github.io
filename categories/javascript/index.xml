@@ -6,7 +6,27 @@
     <description>Recent content in javascript on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hannoi Tower</title>
+      <link>http://thepink.dev/portfolio/hannoi-tower/</link>
+      <pubDate>Thu, 12 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/hannoi-tower/</guid>
+      <description>Project Requirements A classic Hannoi Tower, in Javascript
+Project Details See it in action here</description>
+    </item>
+    
+    <item>
+      <title>Hangman Game</title>
+      <link>http://thepink.dev/portfolio/hangman-game/</link>
+      <pubDate>Wed, 12 Jan 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/hangman-game/</guid>
+      <description>Project Description A fun mini Javascript project.
+This project was built purely with JS.</description>
+    </item>
+    
     <item>
       <title>Real Time Bus Tracker</title>
       <link>http://thepink.dev/portfolio/real-time-bus-tracker/</link>
@@ -18,10 +38,10 @@
     
     <item>
       <title>Follow The Eyes</title>
-      <link>http://thepink.dev/portfolio/eyemovement/</link>
+      <link>http://thepink.dev/portfolio/eye-movement/</link>
       <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
       
-      <guid>http://thepink.dev/portfolio/eyemovement/</guid>
+      <guid>http://thepink.dev/portfolio/eye-movement/</guid>
       <description>Project Description This project is all about mouse movements.
 The Eyes of our pink friend will follow your mouse all over the place.</description>
     </item>
@@ -33,6 +53,16 @@ The Eyes of our pink friend will follow your mouse all over the place.</descript
       
       <guid>http://thepink.dev/portfolio/pacman-factory/</guid>
       <description>Project Details This Project is a PacMan Factory, go back to the 80&amp;rsquo;s and have fun by randomly creating and adding PacMan figures to the DOM with ramdom speed and directions.</description>
+    </item>
+    
+    <item>
+      <title>To-Do List</title>
+      <link>http://thepink.dev/portfolio/to-do-list/</link>
+      <pubDate>Tue, 12 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/to-do-list/</guid>
+      <description>Project Description My very First To-Do List App
+This App was created using CSS, HTML, JSX, and React Components, to understand CRUD, and as an intro to useState.</description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firestore on The Pink Dev</title>
+    <link>http://thepink.dev/categories/firestore/</link>
+    <description>Recent content in Firestore on The Pink Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/firestore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Log App</title>
+      <link>http://thepink.dev/portfolio/running-log-app/</link>
+      <pubDate>Sun, 12 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/running-log-app/</guid>
+      <description>Project Description This app is a React Project intended to keep track of my daily running stats in terms of Pace, BPM and Run Types.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,11 +6,38 @@
     <description>Recent content in Categories on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accuweather api</title>
+      <link>http://thepink.dev/categories/accuweather-api/</link>
+      <pubDate>Sun, 12 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/accuweather-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firestore</title>
+      <link>http://thepink.dev/categories/firestore/</link>
+      <pubDate>Sun, 12 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/firestore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://thepink.dev/categories/react/</link>
+      <pubDate>Sun, 12 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/react/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>javascript</title>
       <link>http://thepink.dev/categories/javascript/</link>
-      <pubDate>Tue, 09 Mar 2021 12:14:34 +0600</pubDate>
+      <pubDate>Thu, 12 May 2022 12:14:34 +0600</pubDate>
       
       <guid>http://thepink.dev/categories/javascript/</guid>
       <description></description>
@@ -22,15 +49,6 @@
       <pubDate>Tue, 09 Mar 2021 12:14:34 +0600</pubDate>
       
       <guid>http://thepink.dev/categories/mapbox-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>http://thepink.dev/categories/html/</link>
-      <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
-      
-      <guid>http://thepink.dev/categories/html/</guid>
       <description></description>
     </item>
     

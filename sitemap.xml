@@ -2,14 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://thepink.dev/blog/</loc>
-    <lastmod>2022-04-12T12:14:34+06:00</lastmod>
+    <loc>http://thepink.dev/categories/accuweather-api/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/firestore/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/react/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/running-log-app/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/</loc>
+    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/hannoi-tower/</loc>
+    <lastmod>2022-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/javascript/</loc>
+    <lastmod>2022-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/blog/</loc>
     <lastmod>2022-04-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/what-is-a-fullstack-dev/</loc>
     <lastmod>2022-04-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/hangman-game/</loc>
+    <lastmod>2022-01-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/claim-fcc-certificate/</loc>
     <lastmod>2021-05-25T12:14:34+06:00</lastmod>
@@ -17,16 +44,7 @@
     <loc>http://thepink.dev/blog/where-to-start/</loc>
     <lastmod>2021-03-23T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://thepink.dev/categories/</loc>
-    <lastmod>2021-03-09T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/categories/javascript/</loc>
-    <lastmod>2021-03-09T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>http://thepink.dev/categories/mapbox-api/</loc>
-    <lastmod>2021-03-09T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/portfolio/</loc>
     <lastmod>2021-03-09T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/portfolio/real-time-bus-tracker/</loc>
@@ -35,14 +53,14 @@
     <loc>http://thepink.dev/blog/web-dev-certificate/</loc>
     <lastmod>2021-02-21T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://thepink.dev/portfolio/eyemovement/</loc>
-    <lastmod>2021-02-17T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/categories/html/</loc>
+    <loc>http://thepink.dev/portfolio/eye-movement/</loc>
     <lastmod>2021-02-17T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/portfolio/pacman-factory/</loc>
     <lastmod>2021-02-09T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/to-do-list/</loc>
+    <lastmod>2021-01-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/hello-world/</loc>
     <lastmod>2021-01-11T12:14:34+06:00</lastmod>
