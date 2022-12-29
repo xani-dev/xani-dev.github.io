@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>React on The Pink Dev</title>
+    <title>react on The Pink Dev</title>
     <link>http://thepink.dev/categories/react/</link>
-    <description>Recent content in React on The Pink Dev</description>
+    <description>Recent content in react on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/react/index.xml" rel="self" type="application/rss+xml" />
