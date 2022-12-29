@@ -6,7 +6,16 @@
     <description>Recent content on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Restaurant Ordering App</title>
+      <link>http://thepink.dev/portfolio/restaurant-app/</link>
+      <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/restaurant-app/</guid>
+      <description>Project Description I built this full-stack app with React and a mix of different technologies, to experiment with Stripe Payments API in REST routing system.</description>
+    </item>
+    
     <item>
       <title>Running Log App</title>
       <link>http://thepink.dev/portfolio/running-log-app/</link>

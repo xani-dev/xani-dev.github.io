@@ -2,31 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://thepink.dev/categories/accuweather-api/</loc>
-    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>http://thepink.dev/categories/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/express/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/graphql/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/javascript/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/react/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/restaurant-app/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/strapi/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/stripe-api/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/</loc>
+    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/accuweather-api/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/firestore/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://thepink.dev/portfolio/</loc>
-    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/categories/react/</loc>
-    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>http://thepink.dev/portfolio/running-log-app/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://thepink.dev/</loc>
-    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>http://thepink.dev/portfolio/hannoi-tower/</loc>
-    <lastmod>2022-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/categories/javascript/</loc>
     <lastmod>2022-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/</loc>
