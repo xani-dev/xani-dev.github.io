@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thepink.dev/categories/</loc>
-    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/expense-tracker/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/express/</loc>
-    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/mongodb/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/nodejs/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/portfolio/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/categories/react/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/</loc>
+    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/graphql/</loc>
     <lastmod>2022-11-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/javascript/</loc>
-    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/portfolio/</loc>
-    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/categories/react/</loc>
     <lastmod>2022-11-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/portfolio/restaurant-app/</loc>
@@ -26,10 +38,7 @@
     <loc>http://thepink.dev/categories/strapi/</loc>
     <lastmod>2022-11-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://thepink.dev/categories/stripe-api/</loc>
-    <lastmod>2022-11-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/</loc>
+    <loc>http://thepink.dev/categories/stripe/</loc>
     <lastmod>2022-11-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/accuweather-api/</loc>

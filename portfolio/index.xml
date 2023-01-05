@@ -6,7 +6,17 @@
     <description>Recent content in Portfolio on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expense Tracker</title>
+      <link>http://thepink.dev/portfolio/expense-tracker/</link>
+      <pubDate>Mon, 02 Jan 2023 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/portfolio/expense-tracker/</guid>
+      <description>Project Requirements A minimalist Expense Tracker App.
+Project Description A multi-user MERN full-stack App designed to track expenses, uses Firebase Authentication.</description>
+    </item>
+    
     <item>
       <title>Restaurant Ordering App</title>
       <link>http://thepink.dev/portfolio/restaurant-app/</link>

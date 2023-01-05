@@ -6,18 +6,45 @@
     <description>Recent content in Categories on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>express</title>
       <link>http://thepink.dev/categories/express/</link>
-      <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
+      <pubDate>Mon, 02 Jan 2023 12:14:34 +0600</pubDate>
       
       <guid>http://thepink.dev/categories/express/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>graphQL</title>
+      <title>mongoDB</title>
+      <link>http://thepink.dev/categories/mongodb/</link>
+      <pubDate>Mon, 02 Jan 2023 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodeJS</title>
+      <link>http://thepink.dev/categories/nodejs/</link>
+      <pubDate>Mon, 02 Jan 2023 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>http://thepink.dev/categories/react/</link>
+      <pubDate>Mon, 02 Jan 2023 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/categories/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphql</title>
       <link>http://thepink.dev/categories/graphql/</link>
       <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
       
@@ -35,15 +62,6 @@
     </item>
     
     <item>
-      <title>react</title>
-      <link>http://thepink.dev/categories/react/</link>
-      <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
-      
-      <guid>http://thepink.dev/categories/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>strapi</title>
       <link>http://thepink.dev/categories/strapi/</link>
       <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
@@ -53,11 +71,11 @@
     </item>
     
     <item>
-      <title>stripe API</title>
-      <link>http://thepink.dev/categories/stripe-api/</link>
+      <title>stripe</title>
+      <link>http://thepink.dev/categories/stripe/</link>
       <pubDate>Sat, 12 Nov 2022 12:14:34 +0600</pubDate>
       
-      <guid>http://thepink.dev/categories/stripe-api/</guid>
+      <guid>http://thepink.dev/categories/stripe/</guid>
       <description></description>
     </item>
     

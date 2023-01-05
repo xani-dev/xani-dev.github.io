@@ -165,13 +165,21 @@
 							checked="checked"
 						/>All
 					</label>
-					                                                  
+					                                                            
 					<label class="btn btn-sm btn-primary">
 						<input
 							type="radio"
 							name="shuffle-filter"
-							value="graphql"
-						/>Graph ql
+							value="react"
+						/>React
+					</label>
+					
+					<label class="btn btn-sm btn-primary">
+						<input
+							type="radio"
+							name="shuffle-filter"
+							value="mongodb"
+						/>Mongo db
 					</label>
 					
 					<label class="btn btn-sm btn-primary">
@@ -186,8 +194,16 @@
 						<input
 							type="radio"
 							name="shuffle-filter"
-							value="react"
-						/>React
+							value="nodejs"
+						/>Node js
+					</label>
+					
+					<label class="btn btn-sm btn-primary">
+						<input
+							type="radio"
+							name="shuffle-filter"
+							value="graphql"
+						/>Graphql
 					</label>
 					
 					<label class="btn btn-sm btn-primary">
@@ -202,8 +218,8 @@
 						<input
 							type="radio"
 							name="shuffle-filter"
-							value="stripe-api"
-						/>Stripe API
+							value="stripe"
+						/>Stripe
 					</label>
 					
 					<label class="btn btn-sm btn-primary">
@@ -245,7 +261,27 @@
 			
 			<div
 				class="col-lg-4 col-6 mb-4 shuffle-item"
-				data-groups='["graphql","express","react","strapi","stripe-api","javascript"]'
+				data-groups='["react","mongodb","express","nodejs"]'
+			>
+				<div class="position-relative rounded hover-wrapper">
+					<img
+						src="http://thepink.dev/images/portfolio/expense-tracker.jpg"
+						alt="portfolio-image"
+						class="img-fluid rounded w-100 d-block"
+					/>
+					<div class="hover-overlay">
+						<div class="hover-content">
+							<a class="btn btn-light btn-sm" href="http://thepink.dev/portfolio/expense-tracker/"
+								>view project</a
+							>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div
+				class="col-lg-4 col-6 mb-4 shuffle-item"
+				data-groups='["graphql","express","react","strapi","stripe","javascript"]'
 			>
 				<div class="position-relative rounded hover-wrapper">
 					<img
