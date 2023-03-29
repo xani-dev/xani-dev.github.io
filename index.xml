@@ -6,14 +6,23 @@
     <description>Recent content on The Pink Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 12:14:34 +0600</lastBuildDate><atom:link href="http://thepink.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to choose the right Coding Bootcamp?</title>
       <link>http://thepink.dev/blog/choose-bootcamp/</link>
-      <pubDate>Fri, 13 Jan 2023 12:14:34 +0600</pubDate>
+      <pubDate>Fri, 10 Mar 2023 12:14:34 +0600</pubDate>
       
       <guid>http://thepink.dev/blog/choose-bootcamp/</guid>
       <description>This is it. Learning to code made it to your list of this year&amp;rsquo;s Resolutions, BUT you&amp;rsquo;re still wondering if a Coding Bootcamp is a good alternative for you?</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s a Full Stack Developer?</title>
+      <link>http://thepink.dev/blog/what-is-a-fullstack-dev/</link>
+      <pubDate>Wed, 01 Feb 2023 12:14:34 +0600</pubDate>
+      
+      <guid>http://thepink.dev/blog/what-is-a-fullstack-dev/</guid>
+      <description>So, you have decided to jump into the coding and developing world but are not sure (yet) what a Fullstack Developer does and if that’s for you.</description>
     </item>
     
     <item>
@@ -52,15 +61,6 @@ Project Description A multi-user MERN full-stack App designed to track expenses,
       <guid>http://thepink.dev/portfolio/hannoi-tower/</guid>
       <description>Project Requirements A classic Hannoi Tower, in Javascript
 Project Details See it in action here</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s a Full Stack Developer?</title>
-      <link>http://thepink.dev/blog/what-is-a-fullstack-dev/</link>
-      <pubDate>Tue, 12 Apr 2022 12:14:34 +0600</pubDate>
-      
-      <guid>http://thepink.dev/blog/what-is-a-fullstack-dev/</guid>
-      <description>So, you have decided to jump into the coding and developing world but are not sure (yet) what a Fullstack Developer does and if that’s for you.</description>
     </item>
     
     <item>

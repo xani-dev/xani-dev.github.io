@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thepink.dev/blog/</loc>
-    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+    <lastmod>2023-03-10T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/choose-bootcamp/</loc>
-    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+    <lastmod>2023-03-10T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/</loc>
-    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+    <lastmod>2023-03-10T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/blog/what-is-a-fullstack-dev/</loc>
+    <lastmod>2023-02-01T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/</loc>
     <lastmod>2023-01-02T12:14:34+06:00</lastmod>
@@ -58,9 +61,6 @@
   </url><url>
     <loc>http://thepink.dev/portfolio/hannoi-tower/</loc>
     <lastmod>2022-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/blog/what-is-a-fullstack-dev/</loc>
-    <lastmod>2022-04-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/portfolio/hangman-game/</loc>
     <lastmod>2022-01-12T12:14:34+06:00</lastmod>
