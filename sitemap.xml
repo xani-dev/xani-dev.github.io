@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://thepink.dev/blog/</loc>
+    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/blog/choose-bootcamp/</loc>
+    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://thepink.dev/</loc>
+    <lastmod>2023-01-13T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>http://thepink.dev/categories/</loc>
     <lastmod>2023-01-02T12:14:34+06:00</lastmod>
   </url><url>
@@ -21,9 +30,6 @@
     <lastmod>2023-01-02T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/react/</loc>
-    <lastmod>2023-01-02T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/</loc>
     <lastmod>2023-01-02T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/categories/graphql/</loc>
@@ -52,9 +58,6 @@
   </url><url>
     <loc>http://thepink.dev/portfolio/hannoi-tower/</loc>
     <lastmod>2022-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://thepink.dev/blog/</loc>
-    <lastmod>2022-04-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://thepink.dev/blog/what-is-a-fullstack-dev/</loc>
     <lastmod>2022-04-12T12:14:34+06:00</lastmod>
